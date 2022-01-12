@@ -1,10 +1,6 @@
 
 
-let names = ['João', 'Maria', 'Antônio', 'Margarida'];
 
-for(i=0; i < names.length; i+=1){
-    console.log(names[i]);
-}
 
 
 
